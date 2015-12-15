@@ -1,0 +1,15 @@
+{
+  "name": "my-icon-font",
+  "version": "1.0.0",
+  "description": "My Icon font.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webfont": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
